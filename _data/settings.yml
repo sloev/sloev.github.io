@@ -66,6 +66,9 @@ contact: >
 projects:
 - {name: 'Smells Like Sweat - doommetal documentary', folder: 'smells_like_sweat', file: 'projects/smells_like_sweat.html'}
 - {name: 'kfa/sloev - markov fimbul performance', folder: 'kfa_sloev', file: 'projects/kfa_sloev.html'}
+- {name: 'katte tekno - visuals for Ceephax acid crew at loppen', folder: 'katte_tekno', file: 'projects/katte_tekno.html'}
+
+
 
 #-------------------------------
 # Contact Section
