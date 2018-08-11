@@ -65,7 +65,6 @@ contact: >
 
 projects:
 - {name: 'Smells Like Sweat - doommetal documentary', folder: 'smells_like_sweat', file: 'projects/smells_like_sweat.html'}
-- {name: 'Smells Like Sweat - doommetal documentary', folder: 'smells_like_sweat', file: 'projects/smells_like_sweat.html'}
 
 #-------------------------------
 # Contact Section
