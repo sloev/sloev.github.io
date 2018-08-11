@@ -52,7 +52,7 @@ about: >
 
   All projects and sourcecode are MIT licensed unless specified otherwise.
 
-  
+
   The site is built using [LeNPaul's portfolio template](https://github.com/LeNPaul/portfolio-jekyll-theme/fork).
 
 contact: >
@@ -64,14 +64,15 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Smells Like Sweat - doommetal documentary', folder: 'smells_like_sweat', file: 'projects/smells_like_sweat.html'}
+- {name: 'Smells Like Sweat - doommetal documentary', folder: 'smells_like_sweat', file: 'projects/smells_like_sweat.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
 - {icon: 'github', link: 'https://github.com/sloev'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/johannes-g%E5rdsted-valbj%F8rn-446654110/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/johannes-gårdsted-valbjørn-446654110'}
 - {icon: 'envelope', link: 'mailto:johannes.valbjorn+sloevgithub@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
