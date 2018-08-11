@@ -39,15 +39,20 @@ disqus:
 # About Section
 
 about: >
- # About Sloev / Johannes Valbjørn
+ # About
 
   This is the personal portfolio of *sloev* (Johannes Valbjørn)
+  
   Sloev is a vj, tinkerer, documentarist and allround audio visual artist.
+  
   Johannes Valbjørn is a dad to three, bikerider, opensource pythonista and allround agile software developer.
+  
   Together they form a unity of intuitive chaos that delivers on time.
+
 
   All projects and sourcecode are MIT licensed unless specified otherwise.
 
+  
   The site is built using [LeNPaul's portfolio template](https://github.com/LeNPaul/portfolio-jekyll-theme/fork).
 
 contact: >
