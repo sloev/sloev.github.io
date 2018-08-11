@@ -3,7 +3,7 @@ layout: post
 title: 'kfa/sloev - markov fimbul performance at galore festival'
 ---
 
-KFA wrote a ton a of poems about the silver fox and read them out loud while three things happened:
+KFA wrote a ton a of poems about the silver fox and read them out loud while sloev made three things happen:
 
 1. record players played metal scraps connected to the pickup with elastic bands
 2. his voice was processed and amplified by a Pure Data patch (as heard in the video)
