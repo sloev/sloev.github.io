@@ -3,6 +3,24 @@
   margin: 0px auto 0px
   padding: 30px
   +clearfix
+  .thumb-title
+    height: 100%
+    text-align: center
+    //+transition
+    +display(flex)
+    +align-items(center)
+    +justify-content(space-around)
+    strong
+      display: block
+      padding: 20px
+      color: black
+      line-height: 1.2
+      font:
+        size: 24px
+        weight: 300
+  &:hover .thumb-overlay
+    color: grey
+
   .thumb-unit
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
     cursor: pointer
