@@ -9,7 +9,7 @@ Project “Nabovarme” (meaning “neighbour heating”) has transformed privat
 
 We hacked Kamstrup Utility meters and installed an ESP8266 wifi mcu based daughterboard in them to report back consumption and to allow for remote control of valves.
 
-{% include image.html url="https://youtu.be/vYKmnAxDXVs" image="projects/jedi_trance/thumb.jpg" %}
+{% include image.html url="https://youtu.be/vYKmnAxDXVs" image="projects/nabovarme/thumb.jpg" %}
 
 Website for nabovarme can be visited [here](http://nabovarme.github.io/)
 
