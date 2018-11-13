@@ -67,12 +67,12 @@ projects:
 - {name: '[code] Lambdarest - web framework for AWS lambda', folder: 'lambdarest', file: 'projects/lambdarest.html'}
 - {name: '[citizen] nabovarme and 34c3 presentation', folder: 'nabovarme', file: 'projects/nabovarme.html'}
 - {name: '[video] Smells Like Sweat - documentary', folder: 'smells_like_sweat', file: 'projects/smells_like_sweat.html'}
+- {name: '[video] The Plant - The Stain', folder: 'the_plant_1', file: 'projects/the_plant_1.html'}
 - {name: '[art] kfa/sloev - performance', folder: 'kfa_sloev', file: 'projects/kfa_sloev.html'}
 - {name: '[art] timelapse stacking', folder: 'timelapse_stacking', file: 'projects/timelapse_stacking.html'}
 - {name: '[vj] katte tekno - Ceephax Acid Crew at Loppen', folder: 'katte_tekno', file: 'projects/katte_tekno.html'}
 - {name: '[vj] jedi trance at Loppen', folder: 'jedi_trance', file: 'projects/jedi_trance.html'}
 - {name: '[vj] Spire festival 2018', folder: 'spire_2018', file: 'projects/spire_2018.html'}
-- {name: '[video] The Plant - The Stain', folder: 'the_plant_1', file: 'projects/the_plant_1.html'}
 
 
 #-------------------------------
