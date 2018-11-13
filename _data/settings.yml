@@ -72,6 +72,7 @@ projects:
 - {name: '[vj] katte tekno - Ceephax Acid Crew at Loppen', folder: 'katte_tekno', file: 'projects/katte_tekno.html'}
 - {name: '[vj] jedi trance at Loppen', folder: 'jedi_trance', file: 'projects/jedi_trance.html'}
 - {name: '[vj] Spire festival 2018', folder: 'spire_2018', file: 'projects/spire_2018.html'}
+- {name: '[video] The Plant - The Stain', folder: 'the_plant_1', file: 'projects/the_plant_1.html'}
 
 
 #-------------------------------
