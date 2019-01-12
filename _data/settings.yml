@@ -72,6 +72,7 @@ projects:
 - {name: '[art] timelapse stacking', folder: 'timelapse_stacking', file: 'projects/timelapse_stacking.html'}
 - {name: '[art] radio nabovarme', folder: 'radio_nabovarme', file: 'projects/radio_nabovarme.html'}
 - {name: '[art] bytes to sound to bytes', folder: 'bytes_to_sound_to_bytes', file: 'projects/bytes_to_sound_to_bytes.html'}
+- {name: '[art] Loppenbooth', folder: 'loppenbooth', file: 'projects/loppenbooth.html'}
 - {name: '[vj] katte tekno - Ceephax Acid Crew at Loppen', folder: 'katte_tekno', file: 'projects/katte_tekno.html'}
 - {name: '[vj] jedi trance at Loppen', folder: 'jedi_trance', file: 'projects/jedi_trance.html'}
 - {name: '[vj] Spire festival 2018', folder: 'spire_2018', file: 'projects/spire_2018.html'}
